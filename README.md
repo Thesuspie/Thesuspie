@@ -1,30 +1,81 @@
-<h1 align="center">Hi 👋, I'm TheSusPie</h1>
-<h3 align="center">A Beginner JS and Python Dev</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Thesuspie.Thesuspie" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thesuspie" alt="thesuspie" /></a> </p>
+<h1 align="center">
+    <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=4200&pause=800&color=2F40F7&center=true&vCenter=true&width=435&lines=Hi+There!;I'am+TheOnlySusPie" alt="Typing SVG" /></a>
+</h1>
 
-- 🔭 I’m currently working on **BTX.chan (discord bot)**
+<h3 align="center">A Beginner JS and Python Developer</h3>
 
-- 🌱 I’m currently learning **Basically everything 🤣**
+<br/>
 
-- 📝 I regularly write articles on Discord, Twitter
+<div align="center">
+ 
+ 🔭 I’m currently working on **a discord bot**
+ 
+ 🌱 I’m currently learning **basically everything 🤣**
 
-- 🥅 Current Goals **actively commiting to btx.chan repo**
+ 🥅 Current goals **make commits to btx chan (discordbot)**
 
-- ⚡ Fun fact **I love to play guitar mainly electric bass**
+ ⚡ Fun fact **I love to play guitar mainly electric bass**
+ 
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:theonlysuspie@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.codewars.com/users/TheSusPie" target="_blank">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/Thesuspie" target="_blank">
+     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+  <a href="https://myanimelist.net/profile/Piemonthepie" target="_blank">
+     <img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+  <a href="https://twitter.com/TheOnlySusPie" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white", target=_blank>
+  </a>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/TheOnlySusPie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theonlysuspie" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Thesuspie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thesuspie" height="30" width="40" /></a>
-</p>
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=r,mysql,vscode,git" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,html,cs" />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<br/>
+<hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesuspie&show_icons=true&locale=en&layout=compact" alt="thesuspie" /></p>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Thesuspie/Thesuspie/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thesuspie&show_icons=true&theme=onedark&locale=en" alt="thesuspie" /></p>
+<hr/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesuspie&" alt="thesuspie" /></p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+<hr/>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
+
+<br/>
 
