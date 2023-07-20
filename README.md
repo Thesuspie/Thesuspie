@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Basically everything 🤣**
 
-- 📝 I regularly write articles on [Discord, Twitter](Discord, Twitter)
+- 📝 I regularly write articles on Discord, Twitter
 
 - 🥅 Current Goals **actively commiting to btx.chan repo**
 
