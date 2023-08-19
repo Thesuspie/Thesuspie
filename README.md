@@ -15,7 +15,7 @@
  
  🌱 I’m currently learning **basically everything 🤣**
 
- 🥅 Current goals **make commits to btx chan (discordbot)**
+ 🥅 Current goals **make commits to my projects**
 
  ⚡ Fun fact **I love to play guitar mainly electric bass**
  
