@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a discord bot**
+ 🔭 I’m currently working on **more than one thing**
  
  🌱 I’m currently learning **basically everything 🤣**
 
