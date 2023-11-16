@@ -1,7 +1,7 @@
 <img align="top" src="images/animebg1.jpg"/>
 
 ## The Good Stuff
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,cs,python,lua" height="50px" alt="skillicons.dev" align="center"><br><br>
   <img src="https://skillicons.dev/icons?i=neovim,mysql,vscode,ts,git" height="50px" alt="skillicons.dev">
 
