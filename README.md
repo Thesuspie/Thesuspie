@@ -10,7 +10,7 @@
 <a href="https://www.youtube.com/watch?v=T9F1Wk8DQdg"><img src="https://media.tenor.com/T8pE5uK3nKAAAAAi/aris-dancing-arisu-blue-archive.gif" width="180" height="220" /></a>
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Thesuspie/Thesuspie/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Thesuspie/Thesuspie/output/github-contribution-grid-snake-dark.svg" />
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Thesuspie.Thesuspie" />
 </div>
 
