@@ -7,6 +7,8 @@
 </div>
 
 ## 👎Disliked things👎
+
+## Random Arisu-chan :3
 <a href="https://www.youtube.com/watch?v=T9F1Wk8DQdg"><img src="https://media.tenor.com/T8pE5uK3nKAAAAAi/aris-dancing-arisu-blue-archive.gif" width="180" height="220" /></a>
 
 <div align="center">
