@@ -1,4 +1,4 @@
-<img align="top" src="images/anime.jpg"/>
+<img align="top" src="images/animebg1.jpg"/>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Thesuspie.Thesuspie" />
 
 <h1 align="center">
