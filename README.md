@@ -1,4 +1,4 @@
 <img align="top" src="images/animebg1.jpg"/>
-![aris-dancing-arisu-blue-archive](https://media.tenor.com/T8pE5uK3nKAAAAAi/aris-dancing-arisu-blue-archive.gif)
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
 
