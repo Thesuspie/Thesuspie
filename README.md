@@ -12,5 +12,5 @@
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Thesuspie/Thesuspie/output/github-contribution-grid-snake-dark.svg" />
 </div>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Thesuspie.Thesuspie" />
+
 
