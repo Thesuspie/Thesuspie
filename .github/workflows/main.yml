@@ -29,11 +29,11 @@ jobs:
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - name: clone repo
-      - uses: actions/checkout@v3
+        uses: actions/checkout@v3
 
     # Generates the snake  
       - name: Generate the Snake 
-      - uses: Platane/snk@master
+        uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -43,7 +43,7 @@ jobs:
 
      # show the status of the build. Makes it easier for debugging (if there's any issues).
       - name: show build status
-      - run: git status
+        run: git status
 
       # Push the changes
       - name: Push new files to the output branch
